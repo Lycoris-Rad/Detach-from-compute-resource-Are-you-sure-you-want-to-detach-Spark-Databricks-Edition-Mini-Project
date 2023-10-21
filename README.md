@@ -1,0 +1,1 @@
+# Detach-from-compute-resource-Are-you-sure-you-want-to-detach-Spark-Databricks-Edition-Mini-Project
